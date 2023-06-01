@@ -5,9 +5,8 @@ state={
 	
 	
 	# China - 598
-	#manpower=23669300
-	
-	
+	manpower=23669300
+
 	#manpower = 3424403
 	
 	state_category = city
